@@ -1,0 +1,10 @@
+--- !ruby/object:Hangman
+MAX_GUESSES: 6
+guesses:
+- a
+- e
+wrong_guesses: 2
+word: quahaug
+game_over: false
+wanted_to_save_game: false
+wanted_to_load_game: false
